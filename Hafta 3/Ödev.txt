@@ -1,0 +1,4 @@
+-10 öðrencinin isim ve not;
+-kiþilerin ortlamasý
+-sýnýfýn ort geçenleri ve kalanlarý
+-Calculate Mass of Sun
