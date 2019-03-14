@@ -1,0 +1,6 @@
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\bin\x86\Debug\Odev.exe.config
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\bin\x86\Debug\Odev.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\bin\x86\Debug\Odev.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\obj\x86\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\obj\x86\Debug\Odev.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\obj\x86\Debug\Odev.pdb

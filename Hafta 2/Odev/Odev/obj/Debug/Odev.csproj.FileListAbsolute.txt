@@ -1,0 +1,7 @@
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\obj\Debug\Odev.csprojResolveAssemblyReference.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\bin\Debug\Odev.exe.config
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\bin\Debug\Odev.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\bin\Debug\Odev.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\obj\Debug\Odev.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Odev\Odev\obj\Debug\Odev.pdb
