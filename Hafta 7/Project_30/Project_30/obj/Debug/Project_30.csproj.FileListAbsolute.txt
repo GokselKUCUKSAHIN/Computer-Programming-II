@@ -1,0 +1,10 @@
+C:\Users\gkucu\source\repos\Project_30\Project_30\bin\Debug\Project_30.exe.config
+C:\Users\gkucu\source\repos\Project_30\Project_30\bin\Debug\Project_30.exe
+C:\Users\gkucu\source\repos\Project_30\Project_30\bin\Debug\Project_30.pdb
+C:\Users\gkucu\source\repos\Project_30\Project_30\obj\Debug\Project_30.csprojResolveAssemblyReference.cache
+C:\Users\gkucu\source\repos\Project_30\Project_30\obj\Debug\Project_30.Form1.resources
+C:\Users\gkucu\source\repos\Project_30\Project_30\obj\Debug\Project_30.Properties.Resources.resources
+C:\Users\gkucu\source\repos\Project_30\Project_30\obj\Debug\Project_30.csproj.GenerateResource.cache
+C:\Users\gkucu\source\repos\Project_30\Project_30\obj\Debug\Project_30.csproj.CoreCompileInputs.cache
+C:\Users\gkucu\source\repos\Project_30\Project_30\obj\Debug\Project_30.exe
+C:\Users\gkucu\source\repos\Project_30\Project_30\obj\Debug\Project_30.pdb
