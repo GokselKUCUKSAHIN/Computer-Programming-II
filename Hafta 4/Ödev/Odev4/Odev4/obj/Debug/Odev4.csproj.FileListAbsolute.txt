@@ -1,0 +1,7 @@
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 4\Ödev\Odev4\Odev4\bin\Debug\Odev4.exe.config
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 4\Ödev\Odev4\Odev4\bin\Debug\Odev4.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 4\Ödev\Odev4\Odev4\bin\Debug\Odev4.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 4\Ödev\Odev4\Odev4\obj\Debug\Odev4.csprojResolveAssemblyReference.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 4\Ödev\Odev4\Odev4\obj\Debug\Odev4.csproj.CoreCompileInputs.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 4\Ödev\Odev4\Odev4\obj\Debug\Odev4.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 4\Ödev\Odev4\Odev4\obj\Debug\Odev4.pdb
