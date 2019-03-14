@@ -1,0 +1,32 @@
+C:\Users\gkucu\source\repos\Project_31\Project_31\bin\Debug\Project_31.exe.config
+C:\Users\gkucu\source\repos\Project_31\Project_31\bin\Debug\Project_31.exe
+C:\Users\gkucu\source\repos\Project_31\Project_31\bin\Debug\Project_31.pdb
+C:\Users\gkucu\source\repos\Project_31\Project_31\obj\Debug\Project_31.Form1.resources
+C:\Users\gkucu\source\repos\Project_31\Project_31\obj\Debug\Project_31.Form2.resources
+C:\Users\gkucu\source\repos\Project_31\Project_31\obj\Debug\Project_31.Properties.Resources.resources
+C:\Users\gkucu\source\repos\Project_31\Project_31\obj\Debug\Project_31.csproj.GenerateResource.cache
+C:\Users\gkucu\source\repos\Project_31\Project_31\obj\Debug\Project_31.csproj.CoreCompileInputs.cache
+C:\Users\gkucu\source\repos\Project_31\Project_31\obj\Debug\Project_31.exe
+C:\Users\gkucu\source\repos\Project_31\Project_31\obj\Debug\Project_31.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\bin\Debug\Project_31.exe.config
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\bin\Debug\Project_31.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\bin\Debug\Project_31.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.Form1.resources
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.Form2.resources
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.Properties.Resources.resources
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.csproj.GenerateResource.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.csproj.CoreCompileInputs.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.csprojAssemblyReference.cache
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\bin\Debug\Project_31.exe.config
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\bin\Debug\Project_31.exe
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\bin\Debug\Project_31.pdb
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.csprojAssemblyReference.cache
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.Form1.resources
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.Form2.resources
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.Properties.Resources.resources
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.csproj.GenerateResource.cache
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.csproj.CoreCompileInputs.cache
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.exe
+D:\BackUp\ERU\1.Sınıf\Bahar\Bilgisayar Programlama II\c#\Hafta 7\Project_31\Project_31\obj\Debug\Project_31.pdb

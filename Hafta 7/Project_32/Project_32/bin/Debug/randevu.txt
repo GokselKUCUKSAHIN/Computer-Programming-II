@@ -1,0 +1,5 @@
+﻿Kimlik No*Ad*Soyad*Bölüm*Tarih*Saat
+37225763342*Göksel*Küçükşahin*KBB*28.03.2018*11.30 - 12.00
+Hello*Guy*its*Dermatoloji*28.03.2018*10.00 - 10.30
+123456789*Sometext*Test*KBB*3.04.2018*11.30 - 12.00
+fdsfdsf*sdfsdf*dfsfdsfs*KBB*3.04.2018*12.00 - 12.30

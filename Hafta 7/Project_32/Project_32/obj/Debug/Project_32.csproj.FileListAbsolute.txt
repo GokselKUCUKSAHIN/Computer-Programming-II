@@ -1,0 +1,20 @@
+C:\Users\gkucu\source\repos\Project_32\Project_32\bin\Debug\Project_32.exe.config
+C:\Users\gkucu\source\repos\Project_32\Project_32\bin\Debug\Project_32.exe
+C:\Users\gkucu\source\repos\Project_32\Project_32\bin\Debug\Project_32.pdb
+C:\Users\gkucu\source\repos\Project_32\Project_32\obj\Debug\Project_32.csprojResolveAssemblyReference.cache
+C:\Users\gkucu\source\repos\Project_32\Project_32\obj\Debug\Project_32.Form1.resources
+C:\Users\gkucu\source\repos\Project_32\Project_32\obj\Debug\Project_32.Properties.Resources.resources
+C:\Users\gkucu\source\repos\Project_32\Project_32\obj\Debug\Project_32.csproj.GenerateResource.cache
+C:\Users\gkucu\source\repos\Project_32\Project_32\obj\Debug\Project_32.csproj.CoreCompileInputs.cache
+C:\Users\gkucu\source\repos\Project_32\Project_32\obj\Debug\Project_32.exe
+C:\Users\gkucu\source\repos\Project_32\Project_32\obj\Debug\Project_32.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_32\Project_32\bin\Debug\Project_32.exe.config
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_32\Project_32\bin\Debug\Project_32.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_32\Project_32\bin\Debug\Project_32.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_32\Project_32\obj\Debug\Project_32.csprojResolveAssemblyReference.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_32\Project_32\obj\Debug\Project_32.Form1.resources
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_32\Project_32\obj\Debug\Project_32.Properties.Resources.resources
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_32\Project_32\obj\Debug\Project_32.csproj.GenerateResource.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_32\Project_32\obj\Debug\Project_32.csproj.CoreCompileInputs.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_32\Project_32\obj\Debug\Project_32.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 7\Project_32\Project_32\obj\Debug\Project_32.pdb
