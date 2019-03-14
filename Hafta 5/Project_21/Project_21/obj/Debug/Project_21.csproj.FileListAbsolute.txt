@@ -1,0 +1,7 @@
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Project_21\Project_21\bin\Debug\Project_21.exe.config
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Project_21\Project_21\bin\Debug\Project_21.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Project_21\Project_21\bin\Debug\Project_21.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Project_21\Project_21\obj\Debug\Project_21.csprojResolveAssemblyReference.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Project_21\Project_21\obj\Debug\Project_21.csproj.CoreCompileInputs.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Project_21\Project_21\obj\Debug\Project_21.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Project_21\Project_21\obj\Debug\Project_21.pdb

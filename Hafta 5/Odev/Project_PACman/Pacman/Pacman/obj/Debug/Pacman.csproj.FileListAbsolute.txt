@@ -1,0 +1,7 @@
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\Pacman\Pacman\obj\Debug\Pacman.csprojResolveAssemblyReference.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\Pacman\Pacman\obj\Debug\Pacman.pdb

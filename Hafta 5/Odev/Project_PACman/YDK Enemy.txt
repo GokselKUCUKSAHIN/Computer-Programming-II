@@ -1,0 +1,36 @@
+//
+                //Ghost
+                //
+                Enemy.tX = Enemy.X;
+                Enemy.tY = Enemy.Y;
+                Enemy.X = 15;
+                Enemy.Y = Counter;
+                
+                if ((Enemy.X == CLU.X) && (Enemy.Y == CLU.Y))
+                {
+                    Game = false;
+                }
+                Enemy.Ciz();
+                Enemy.Move(Enemy.tX,Enemy.tY);
+
+                if (Back == false)
+                    Counter++;
+                else
+                    Counter--;
+                if (Counter >= 18)
+                    Back = true;
+                if (Counter <= 3)
+                    Back = false;
+					
+					
+					
+					//
+            //Ghost Object
+            //
+            Ghost Enemy = new Ghost();
+            Enemy.X = 15;
+            Enemy.Y = 18;
+            Enemy.BColor = ConsoleColor.Green;
+            Enemy.FColor = ConsoleColor.DarkMagenta;
+            int Counter = 3;
+            bool Back = false;

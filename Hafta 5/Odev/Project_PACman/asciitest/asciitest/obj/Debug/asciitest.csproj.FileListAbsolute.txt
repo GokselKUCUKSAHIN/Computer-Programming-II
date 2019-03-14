@@ -1,0 +1,7 @@
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\asciitest\asciitest\bin\Debug\asciitest.exe.config
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\asciitest\asciitest\bin\Debug\asciitest.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\asciitest\asciitest\bin\Debug\asciitest.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\asciitest\asciitest\obj\Debug\asciitest.csprojResolveAssemblyReference.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\asciitest\asciitest\obj\Debug\asciitest.csproj.CoreCompileInputs.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\asciitest\asciitest\obj\Debug\asciitest.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 5\Odev\Project_PACman\asciitest\asciitest\obj\Debug\asciitest.pdb

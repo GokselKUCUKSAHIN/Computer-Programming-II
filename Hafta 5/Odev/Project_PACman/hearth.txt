@@ -1,0 +1,42 @@
+//
+            //Hearh Shaped Box
+            //
+            Console.SetCursorPosition(6, 3);
+            Console.Write(s2);
+            Console.SetCursorPosition(7,3);
+            Console.Write(Yan);
+            Console.SetCursorPosition(8, 3);
+            Console.Write(Yan);
+            Console.SetCursorPosition(9, 3);
+            Console.Write(s1);
+            Console.SetCursorPosition(9, 4);
+            Console.Write(s3);
+            Console.SetCursorPosition(10, 4);
+            Console.Write(s1);
+            Console.SetCursorPosition(10, 5);
+            Console.Write(g2);
+            //
+            Console.SetCursorPosition(10, 6);
+            Console.Write(s4);
+            Console.SetCursorPosition(9, 6);
+            Console.Write(s2);
+            Console.SetCursorPosition(9, 7);
+            Console.Write(s4);
+            Console.SetCursorPosition(8, 7);
+            Console.Write(Yan);
+            Console.SetCursorPosition(7, 7);
+            Console.Write(Yan);
+            Console.SetCursorPosition(6, 7);
+            Console.Write(s3);
+            //
+            Console.SetCursorPosition(6, 6);
+            Console.Write(s2);
+
+            Console.SetCursorPosition(7, 6);
+            Console.Write(s4);
+            Console.SetCursorPosition(7, 5);
+            Console.Write(g2);
+            Console.SetCursorPosition(7, 4);
+            Console.Write(s1);
+            Console.SetCursorPosition(6, 4);
+            Console.Write(s3);
