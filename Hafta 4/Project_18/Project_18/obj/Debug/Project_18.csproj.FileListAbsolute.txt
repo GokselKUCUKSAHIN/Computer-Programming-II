@@ -1,0 +1,7 @@
+C:\Users\gkucu\source\repos\Project_18\Project_18\bin\Debug\Project_18.exe.config
+C:\Users\gkucu\source\repos\Project_18\Project_18\bin\Debug\Project_18.exe
+C:\Users\gkucu\source\repos\Project_18\Project_18\bin\Debug\Project_18.pdb
+C:\Users\gkucu\source\repos\Project_18\Project_18\obj\Debug\Project_18.csprojResolveAssemblyReference.cache
+C:\Users\gkucu\source\repos\Project_18\Project_18\obj\Debug\Project_18.csproj.CoreCompileInputs.cache
+C:\Users\gkucu\source\repos\Project_18\Project_18\obj\Debug\Project_18.exe
+C:\Users\gkucu\source\repos\Project_18\Project_18\obj\Debug\Project_18.pdb
