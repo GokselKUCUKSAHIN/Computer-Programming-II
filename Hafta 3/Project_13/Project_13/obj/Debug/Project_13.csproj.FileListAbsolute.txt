@@ -1,0 +1,7 @@
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Project_13\Project_13\bin\Debug\Project_13.exe.config
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Project_13\Project_13\bin\Debug\Project_13.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Project_13\Project_13\bin\Debug\Project_13.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Project_13\Project_13\obj\Debug\Project_13.csprojResolveAssemblyReference.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Project_13\Project_13\obj\Debug\Project_13.csproj.CoreCompileInputs.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Project_13\Project_13\obj\Debug\Project_13.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Project_13\Project_13\obj\Debug\Project_13.pdb

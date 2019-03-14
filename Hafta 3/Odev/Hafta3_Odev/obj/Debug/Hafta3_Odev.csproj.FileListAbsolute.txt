@@ -1,0 +1,7 @@
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Odev\Hafta3_Odev\Hafta3_Odev\bin\Debug\Hafta3_Odev.exe.config
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Odev\Hafta3_Odev\Hafta3_Odev\bin\Debug\Hafta3_Odev.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Odev\Hafta3_Odev\Hafta3_Odev\bin\Debug\Hafta3_Odev.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Odev\Hafta3_Odev\Hafta3_Odev\obj\Debug\Hafta3_Odev.csprojResolveAssemblyReference.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Odev\Hafta3_Odev\Hafta3_Odev\obj\Debug\Hafta3_Odev.csproj.CoreCompileInputs.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Odev\Hafta3_Odev\Hafta3_Odev\obj\Debug\Hafta3_Odev.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 3\Odev\Hafta3_Odev\Hafta3_Odev\obj\Debug\Hafta3_Odev.pdb
