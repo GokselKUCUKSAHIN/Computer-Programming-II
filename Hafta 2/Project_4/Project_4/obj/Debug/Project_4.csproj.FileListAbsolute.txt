@@ -1,0 +1,6 @@
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Project_4\Project_4\bin\Debug\Project_4.exe.config
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Project_4\Project_4\bin\Debug\Project_4.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Project_4\Project_4\bin\Debug\Project_4.pdb
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Project_4\Project_4\obj\Debug\Project_4.csproj.CoreCompileInputs.cache
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Project_4\Project_4\obj\Debug\Project_4.exe
+C:\ERU\Bilgisayar Programlama II\c#\Hafta 2\Project_4\Project_4\obj\Debug\Project_4.pdb
