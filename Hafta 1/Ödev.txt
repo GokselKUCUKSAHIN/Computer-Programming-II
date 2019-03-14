@@ -1,0 +1,2 @@
+-Visual Studio'yu kur.
+-Toolboxtan En çok kullanýlanlardan, Form penceresine bir kaç Tool atarak nasýl çalýþtýklarýný dene.
